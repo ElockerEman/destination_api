@@ -1,0 +1,47 @@
+[
+    {
+        "Id": "01",
+        "Title": "Omagieca Mangrove Garden",
+        "Content": "Gardens, Nature & Wildlife Areas",
+        "Like": "4.8",
+        "Image": "travel_01.jpg",
+        "Latitude": -8.783195,
+        "Longitude": 34.508523
+    },
+    {
+        "Id": "02",
+        "Title": "Marikaban Beach",
+        "Content": "Beaches",
+        "Like": "4.7",
+        "Image": "travel_02.jpg",
+        "Latitude": -8.783195,
+        "Longitude": 34.508523
+    },    
+    {
+        "Id": "03",
+        "Title": "Marlins Bearch Resort",
+        "Content": "Welcome to Marlin's Beach Resort, your Bantayan Island",
+        "Like": "4.6",
+        "Image": "travel_03.jpg",
+        "Latitude": -8.783195,
+        "Longitude": 34.508523
+    },    
+    {
+        "Id": "04",
+        "Title": "Tapa Master",
+        "Content": "Filipino, Fusion, Ialand",
+        "Like": "4.9",
+        "Image": "travel_04.jpg",
+        "Latitude": -8.783195,
+        "Longitude": 34.508523
+    },   
+    {
+        "Id": "05",
+        "Title": "Izla sugbo",
+        "Content": "Filipino, Euro",
+        "Like": "4.6",
+        "Image": "travel_05.jpg",
+        "Latitude": -8.783195,
+        "Longitude": 34.508523
+    }
+]
